@@ -1,0 +1,45 @@
+Site da disciplina: http://200.17.137.109:8081/novobsi/Members/rodolfoamfilho/disciplinas/04162-fundamentos-de-sistemas-de-informacao/
+
+*** Anotações do power point fornecido no site ***
+
+Cinco razões para o sucesso de um Sistema de informação:
+
+1 - Envolvimento do usuário
+2 - Apoio da administração Executiva
+3 - Declaração clara de requisitos
+4 - Planejamento adequado
+5 - Expectativas Realistas
+
+
+Cinco razões para o fracasso de um Sistema de informação:
+
+1- Falta de contribuição do usuário
+2- Requisitos e Especificações incompletos
+3- Mudanças de Requisitos e Especificações
+4- Falta de apoio executivo
+5- Incompetência tecnológica
+
+Tipologia de Sistemas de informação 
+
+- Sistema de apoio as operações {
+     Os sistemas de apoio processam dados gerados e utilizados em operações empresariais.
+     
+     - Sistema de processamento de transações **TPS** 
+        Esses Sistemas registram e processam dados resultantes de transações empresariais, como vendas, compras mudanças de estoque etx.
+     - Sistema de controle de processos **PCS**    
+        Esses Sistemas tomam decisoes por rotinas, como atualização de estoque;
+     - Sistemas colaborativos **ECS**
+        Aumentam as comunicações empresariais e a produtividade de equipes e grupos de trabalho. Os trabalhadores do conhecimento em uma equipe de projeto, por exemplo, podem usar correio eletrônico para enviar e receber mensagens eletrônicas e videoconferência para realizar reuniões eletrônicas e coordenar suas atividades.
+}
+
+-Sistemas de Informação Gerencial {
+    Sistemas de apoio utilizados para ajudar os gerentes na tomada de decisão, seu papel pode ser dividido nas seguintes áreas:
+    
+      -MIS *Sistema de informação gerencial
+        Um sistema de apoio gerencial que produz relatórios pré-especificados, imagens e respostas em uma base periódica, 
+        de exceção e por demanda.
+      
+      -Sistema de apoio a tomada de decisão
+      
+      -Sistema de informação executiva
+}
